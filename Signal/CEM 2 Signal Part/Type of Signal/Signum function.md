@@ -1,0 +1,3 @@
+- signum function / sgn is a [[Continuous-time Signal]]
+- Can be represent using this #formula 
+	- $sgn(t) = -1 + 2u(t)$ when $u(t)$ is a [[Unit step function]]

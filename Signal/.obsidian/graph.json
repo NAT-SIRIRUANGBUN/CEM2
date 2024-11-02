@@ -1,12 +1,48 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
-  "showAttachments": false,
+  "showTags": true,
+  "showAttachments": true,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"CEM 2 Signal Part/Type of Signal\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"CEM 2 Signal Part/Signal Tranformation\" path:\"CEM 2 Signal Part/Elementary Signal\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:\"CEM 2 Signal Part/Elementary Signal\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084296
+      }
+    },
+    {
+      "query": "path:\"CEM 2 Signal Part/Energy-Power Signal\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11951318
+      }
+    },
+    {
+      "query": "path:\"CEM 2 Signal Part\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6055126
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 1.7,
@@ -15,8 +51,8 @@
   "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 0,
-  "linkStrength": 1,
-  "linkDistance": 46,
-  "scale": 2.39399944544957,
+  "linkStrength": 0,
+  "linkDistance": 30,
+  "scale": 1.4461340025919638,
   "close": false
 }

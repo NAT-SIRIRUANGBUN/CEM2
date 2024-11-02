@@ -1,0 +1,1 @@
+![[Stable Properties.png]]
