@@ -37,5 +37,12 @@ Can be called Unit impulse function / Dirac delta function
 	- $\sum_{k = -\infty}^{n} \delta[k] = \begin{cases} 0, & n < 0 \\ 1, & n \geq 0 \end{cases}$   
 
 	- $x[n]\delta[n-k] = x[k]\delta[n-k] \to$ #sampling #properties   
+	  
+		- Why this works ?
+		  Because $x[n]\delta[n-k]$ is the entire signal $x[n]$ multiply with signal that one spike 1 at point $k$
+		  It's mean we require just 1 point on $x[n]$ to multiply with 1 on $\delta[n-k]$ at point $k$ -> $x[k]$ 
+		  
+		 In addition, we pick specific range $[l_{1},l_{2}]$ that contain $k$ in their length and multiply with $\delta[n-k]$ it's will result the same answer -> $x[k]\delta[n-k]$ 
+	
 
 	- $x[n] = \sum_{k=-\infty}^{\infty}x[k]\delta[n-k] \to$ #sifting #properties  

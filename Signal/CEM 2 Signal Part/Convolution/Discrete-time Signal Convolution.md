@@ -7,7 +7,7 @@
 
 - **Why** we use the [[Delta function]] $\delta[n]$ because the #properties of it that said **for any signal / function $x[n]$ can be written as the weighted sum of shifted unite-sample function**
   
-	- That mean we can represent any $x[n]$ using sum of ***constant*** $x[k]$ product with impulse function that shifted by $k$   ($\delta[k]$) 
+	- That mean we can represent any $x[n]$ using sum of ***constant*** $x[k]$ product with impulse function that shifted by $k$ ($\delta[k]$) 
 		
 		$x[n] = ...+x[-2]\delta[n+2] + x[-1]\delta[n+1] + x[0]\delta[n] + x[1]\delta[n-1] + x[2]\delta[n-2]+...$ 
 		
@@ -20,9 +20,7 @@
   
 	   $x[n] = \sum_{k=-\infty}^{\infty}x[k]\delta[n-k] \to y[n]= \sum_{k=-\infty}^{\infty}x[k]h[n-k] = \sum_{k=-\infty}^{\infty}x[n - k]h[k]$
 	   
-	- Can be represent by this #formula  $x[n]*h[n]$ ***(Not a product)***
-	  
-	- **Convolution has the commutativity** #properties $\to x[n]*h[n] = h[n]*x[n]$ 
+	- Can be represent by this #formula  $y[n] = x[n]*h[n]$ ***(Not a product)***
 
 	- How to find the convolution of $x[n]$ and $h[n]$ with length $N, \; M$ respectively?   
 	  
@@ -63,3 +61,5 @@
 	  - From $h[n]$ is [[Delta function]] $\delta[n]$ 
 	  
 	  $x[n]*h[n] = \sum_{k = -\infty}^{\infty}x[k]\delta[n-k] = x[n] \leftarrow$ #sifting #properties   
+
+	![[Discrete Convolution Example 1.png]]

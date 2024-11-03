@@ -25,14 +25,14 @@
       "query": "path:\"CEM 2 Signal Part/Elementary Signal\"  ",
       "color": {
         "a": 1,
-        "rgb": 15512677
+        "rgb": 6646252
       }
     },
     {
       "query": "path:\"CEM 2 Signal Part/Energy-Power Signal\"  ",
       "color": {
         "a": 1,
-        "rgb": 11001245
+        "rgb": 13070448
       }
     },
     {
@@ -53,6 +53,6 @@
   "repelStrength": 0,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.1964818297116992,
-  "close": true
+  "scale": 1.6842164653539637,
+  "close": false
 }

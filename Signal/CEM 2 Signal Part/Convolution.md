@@ -7,11 +7,40 @@
 	  
 - To understand this topic we need to understand the **System** first. There are a number of basic #properties of [[Continuous-time Signal]] and [[Discrete-time Signal]] (Classification of System)
   
-	- [[Linearity]] (Linear / Non-Linear)
-	- [[Time Invariance]] (Time invariance / Time Varying)
+	- **==[[Linearity]] (Linear / Non-Linear)==**
+	- **==[[Time Invariance]] (Time invariance / Time Varying)==**
 	- [[Memory]] (With memory / With out Memory)
 	- [[Causal]] (Predictable / Not predictable)
 	- [[Invertibility]] (Can / Can't calculate inverse)
 	- [[Stable]] (Stable / Not stable)
+	  
+- #properties 
+  
+	- Commutative #properties 
 
-- [[Discrete-time Signal Convolution]]
+		- **Discrete:**  $x[n]∗h[n]=h[n]∗x[n]$
+		- **Continuous:**  $x(t)∗h(t)=h(t)∗x(t)$
+		  
+	- Associative #properties 
+
+		- **Discrete:**  $x[n] * (h[n]*g[n]) = (x[n]*h[n])*g[n]$ 
+		- **Continuous:**  $x(t) * (h(t)*g(t)) = (x(t) * h(t)) * g(t)$
+		  
+	- Distributive #properties 
+
+		- **Discrete:**  $x[n] * (h[n] + g[n]) = (x[n]*h[n]) + (x[n]*g[n])$ 
+		- **Continuous:**  $x(t) * (h(t) + g(t)) = (x(t) * h(t)) + (x(t) * g(t))$ 
+
+	- Identity #properties 
+
+		- **Discrete:**  $x[n] * \delta[n] = x[n]$
+		- **Continuous:**  $x(t) * \delta(t) = x(t)$
+
+	- Convolution with [[Unit step function]] #properties 
+
+		- **Discrete:**  $y[n] = x[n] * u[n] = \sum_{k = -\infty}^{n}x[k]$
+		- **Continuous:** $y(t) = x(t) * u(t) = \int_{-\infty}^{t}x(T)dT$ 
+
+  - Type of Convolution
+	- [[Discrete-time Signal Convolution]]
+	- [[Continuous-time Signal Convolution]]
