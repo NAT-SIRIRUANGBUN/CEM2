@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEM 2 Signal Part/Convolution.md",
+                "file": "CEM 2 Signal Part/Convolution/Continuous-time Signal Convolution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Convolution"
+              "title": "Continuous-time Signal Convolution"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CEM 2 Signal Part/Convolution.md"
+                "file": "CEM 2 Signal Part/Convolution/Continuous-time Signal Convolution.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Convolution"
+              "title": "Outline of Continuous-time Signal Convolution"
             }
           }
         ]
@@ -162,15 +162,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f644262a0b530a7",
+  "active": "d6f52ec639baeffb",
   "lastOpenFiles": [
+    "Image/Continuous Convolution Example 4.png",
+    "CEM 2 Signal Part/Elementary Signal/Unit step function.md",
+    "CEM 2 Signal Part/Convolution/Continuous-time Signal Convolution.md",
+    "Image/Continuous Convolution Example 2.jpeg",
+    "Image/Continuous Convolution Example 3.jpeg",
+    "CEM 2 Signal Part/Type of Signal.md",
+    "Image/Continuous Convolution Example 1.png",
+    "CEM 2 Signal Part/Convolution.md",
     "CEM 2 Signal Part/Classification of System/Linearity.md",
     "CEM 2 Signal Part/Signal Tranformation.md",
-    "CEM 2 Signal Part/Convolution/Continuous-time Signal Convolution.md",
     "CEM 2 Signal Part/Convolution/Discrete-time Signal Convolution.md",
     "Image/Discrete Convolution Example 1.png",
-    "Image/Continuous Convolution Example1.png",
-    "CEM 2 Signal Part/Convolution.md",
     "CEM 2 Signal Part/Elementary Signal/Delta function.md",
     "CEM 2 Signal Part/Classification of System/Time Invariance.md",
     "CEM 2 Signal Part/Convolution/LTI System.md",
@@ -184,25 +189,20 @@
     "CEM 2 Signal Part/Type of Signal/Discrete-time Signal.md",
     "CEM 2 Signal Part/Elementary Signal/Ramp function.md",
     "CEM 2 Signal Part/Elementary Signal/Sampling function.md",
-    "CEM 2 Signal Part/Elementary Signal/Unit step function.md",
     "CEM 2 Signal Part/Signal Tranformation/Reflection Operation.md",
     "CEM 2 Signal Part/Other Properties.md",
-    "CEM 2 Signal Part/Type of Signal.md",
     "CEM 2 Signal Part/Type of Signal/Continuous-Signal.md",
     "CEM 2 Signal Part/Type of Signal/Continuous-time Signal.md",
     "CEM 2 Signal Part/Introduction.md",
     "Image/Convolution Tabular Method Visualize.png",
     "Image/Convolution Multiplication Method.png",
     "Image/Tabular Method.png",
-    "CEM 2 Signal Part/Classification of System/Stable.md",
     "CEM 2 Signal Part/Convolution",
     "Image/Stable Properties.png",
     "Image/Time Invariance Example2.png",
     "Image/Linearity Example1.png",
     "CEM 2 Signal Part/Classification of System",
     "CEM 2 Signal Part/Energy-Power Signal",
-    "Image/Periodic Discrete Time.png",
-    "Image/Periodic Discrete Time.png",
     "CEM 2 Signal Part/Elementary Signal",
     "CEM 2 Signal Part/Signal Tranformation",
     "CEM 2 Signal Part/Type of Signal",
