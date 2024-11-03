@@ -57,9 +57,9 @@
 	  $x[n]*\delta[n] = x[n]$ 
 	  
 	  This because from the convolution function 
-	  
-	  $x[n]*h[n] = \sum_{n = -\infty}^{\infty}x[k]h[n-k]$ 
+		  
+	  $x[n]*h[n] = \sum_{k = -\infty}^{\infty}x[k]h[n-k]$ 
 	  
 	  - From $h[n]$ is [[Delta function]] $\delta[n]$ 
 	  
-	  $x[n]*h[n] = \sum_{n = -\infty}^{\infty}x[n]\delta[n-k] = x[n] \leftarrow$ #sifting #properties   
+	  $x[n]*h[n] = \sum_{k = -\infty}^{\infty}x[k]\delta[n-k] = x[n] \leftarrow$ #sifting #properties   
