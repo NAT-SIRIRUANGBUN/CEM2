@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEM 2 Signal Part/Continuous Time Fourier Transform.md",
+                "file": "CEM 2 Signal Part/Signal Tranformation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Continuous Time Fourier Transform"
+              "title": "Signal Tranformation"
             }
           },
           {
@@ -162,10 +162,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CEM 2 Signal Part/Continuous Time Fourier Transform.md"
+                "file": "CEM 2 Signal Part/Signal Tranformation.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Continuous Time Fourier Transform"
+              "title": "Outline of Signal Tranformation"
             }
           }
         ]
@@ -185,17 +185,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6f52ec639baeffb",
+  "active": "dc63983a8d8596e4",
   "lastOpenFiles": [
     "CEM 2 Signal Part.md",
+    "CEM 2 Signal Part/Type of Signal.md",
+    "CEM 2 Signal Part/Type of Signal/Discrete-time Signal.md",
+    "CEM 2 Signal Part/Introduction.md",
     "CEM 2 Signal Part/Continuous Time Fourier Transform.md",
     "CEM 2 Signal Part/Convolution/Continuous-time Signal Convolution.md",
     "CEM 2 Signal Part/Convolution/Discrete-time Signal Convolution.md",
     "CEM 2 Signal Part/Elementary Signals.md",
     "CEM 2 Signal Part/Convolution.md",
-    "CEM 2 Signal Part/Introduction.md",
     "CEM 2 Signal Part/Signal Tranformation.md",
-    "CEM 2 Signal Part/Type of Signal.md",
     "Image/A man who make us suffer!.png",
     "Image/Convolution Tabular Method Visualize.png",
     "CEM 2 Signal Part/Type of Signal/Complex Exponential Signal.md",
@@ -218,7 +219,6 @@
     "CEM 2 Signal Part/Type of Signal/Sinusoidal wave.md",
     "CEM 2 Signal Part/Type of Signal/Periodic Signal.md",
     "CEM 2 Signal Part/Energy-Power Signal/Power Signal.md",
-    "CEM 2 Signal Part/Type of Signal/Discrete-time Signal.md",
     "CEM 2 Signal Part/Convolution/Elementary Signal/Sampling function.md",
     "Image/Convolution Multiplication Method.png",
     "Image/Tabular Method.png",
