@@ -9,7 +9,7 @@
 	
 - #example 
 	- **[[Sinusoidal wave]]**
-	- **[[Complex exponential signal]]**
+	- **[[Complex Exponential Signal]]**
 
 - #properties 
 	- Sum of 2 or more periodic don't always periodic

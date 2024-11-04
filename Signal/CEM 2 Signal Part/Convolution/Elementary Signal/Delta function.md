@@ -15,7 +15,7 @@ Can be called Unit impulse function / Dirac delta function
 	
 		![[Unit Impulse Prop1.png]]
 		![[Unit Impulse Prop2.png]]
-	- If we integrate delta function from $-\infty \to \infty$ it will result the [[Unit Step function]] that change its value at $t$ 
+	- If we integrate delta function from $-\infty \to \infty$ it will result the [[Unit step function]] that change its value at $t$ 
 	  
 	- If we integrate / sum the sampling properties at $t_{0}$ (answer is $x(t_{0})\delta(t - t_{0}$) $\to x(t_{0})$ scale with $x(t_{0}$) in **[[Continuous-time Signal]]** function) with range $t_{1}, \; t_{2}$ that $t_{1} \leq t_{0} \leq t_{2}$ that will result the **single value**  of** $x(t)$ on $t_{0}$ that mean $x(t_{0})$ 
 	  

@@ -30,7 +30,7 @@
 	- **Method 1**
 		- Change domain from $n$ to $k$ that mean $x[n] \to x[k], \; h[n] \to h[k]$ 
 		  
-		- Take the [[Reflection Operation]] to the $h[k] \to h[-k]$
+		- Apply the [[Reflection Operation]] to the $h[k] \to h[-k]$
 		  
 		- From $h[-k] \to (h[0-k])$ has scale $...,-2,-1,0,1,2,...$ that mean we can replace the $0$ with $n$ that mean we change $h[0-k] \to h[n-k]$ so we replace $0$ with $n \to$ scaling with $...,n-2,n-1,n,n+1,n+2$  instead
 		  
